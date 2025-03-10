@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Daniyal
 
-I am interested in **Computer Science Major**, more specifically ML and Embedded Systems.  
+I am a **Computer Science Major**, interested in ML and Embedded Systems.  
 I am currently learning more about AI and the corporate world.  
 I'm currently working on an two AI projects, one physics project, and one web scraper. 
 
