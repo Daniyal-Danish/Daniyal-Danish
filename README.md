@@ -1,8 +1,7 @@
-###👋 Hi, I’m @Daniyal-Danish
+### 👋 Hi, I’m Daniyal
 
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me, daniyal.danish076@gmail.com
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: ...
+I am interested in Computer Science, more specifically ML and Embedded Systems.
+I am currently learning more about AI and the corporate world.
+I'm currently working on an two AI projects, one physics project, and one web scraper. 
+
+If you want to contact me, this is my email: (mailto:daniyal.danish076@gmail.com)
